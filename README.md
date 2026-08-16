@@ -30,7 +30,12 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshots
 
-![Tic Tac Toe Game](screenshots/tic-tac-toe.png)
+![Tic Tac Toe Game](screenshots/tic-tac-toe1.png)
+![Tic Tac Toe Game](screenshots/tic-tac-toe2.png)
+![Tic Tac Toe Game](screenshots/tic-tac-toe3.png)
+![Tic Tac Toe Game](screenshots/tic-tac-toe4.png)
+![Tic Tac Toe Game](screenshots/tic-tac-toe5.png)
+![Tic Tac Toe Game](screenshots/tic-tac-toe6.png)
 
 ## 🌐 Live Demo
 
